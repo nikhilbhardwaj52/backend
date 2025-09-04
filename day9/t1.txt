@@ -1,0 +1,13 @@
+code    meaning        
+
+200      Ok             the request was succeful,and the reponse contains data
+
+201     created         a new resource was succesfully created
+
+400     bad request     the request is malformed or invalid
+
+401     unauthorized    authentication failed or is missing
+
+403     forbidden        authentication done but no permission
+                    
+404     no found         the requested resource does't exist
